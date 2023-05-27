@@ -1,4 +1,6 @@
-# ExiLightTestLED
+# exiLightTestLED
+
+Add-on for [exiLight](https://github.com/foorschtbar/exiLight) to drive the test LED on the case.
 
 ![](./.github/image.png)
 
