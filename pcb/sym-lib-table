@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SW-Digistump")(type "KiCad")(uri "${KIPRJMOD}/Libs/SW-Digistump.kicad_sym")(options "")(descr ""))
+)
